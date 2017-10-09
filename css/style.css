@@ -216,3 +216,7 @@ a:link, a:visited {
 a:hover {
   filter: invert(100%);
 }
+footer.copyright{
+display: flex;
+justify-content: center;
+}
