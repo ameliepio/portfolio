@@ -4,6 +4,13 @@ body, html
 	background-color: #EDEDED !important;
 }
 
+/*copy*/
+
+
+
+
+/*copy*/
+
 .intro
 {
 	text-align: center;
@@ -14,28 +21,43 @@ body, html
 
 .intro h1
 {
-	font-weight: 900;
+	font-weight: 300;
 	text-transform: uppercase;
 }
 
 .intro span{
 
 color:#b71c1c;
-
+	font-weight: 900;
 
 }
 
 .intro h5
 {
 	text-transform: uppercase;
-	background-color: #f5f5f5;
+	/*background-color: #f5f5f5;*/
 	padding: 10px;
-	color: #333333;
+	color:#b71c1c;
+	/*color: #333333;*/
 	display: inline-block;
-	font-size: 1.2rem;
+	font-size:2rem;
+	font-style: italic;
 }
 
 
+
+
+
+.down{
+color: :#b71c1c;
+padding: 10px;
+display: inline-block;
+font-size:6rem;
+}
+
+
+
+}
 .about .col
 {
 	margin-bottom: 24px;
@@ -89,8 +111,7 @@ color:#b71c1c;
 	text-transform: uppercase;
 	margin-bottom: 45px;
 }
-
-/*.portfolio hr
+/*.posrtfolio hr
 {
 	width: 40px;
 	margin-bottom: 45px;
@@ -153,10 +174,11 @@ color:#b71c1c;
 footer
 {
 	padding-top: 0px;
+	text-align: center;
 }
 
 
-/*copy*/
+/*icons*/
 hr {
     border : 0;
     height: 1px;
