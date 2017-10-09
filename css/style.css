@@ -44,11 +44,7 @@ color:#b71c1c;
 	font-style: italic;
 }
 
-
-
-
 .down{
-color: :#b71c1c;
 padding: 10px;
 display: inline-block;
 font-size:6rem;
@@ -56,7 +52,14 @@ font-size:6rem;
 
 
 
+.scroll{
+padding: 10px;
+display:flex;
+flex-direction: row;
+justify-content: center;
+font-size:6rem;
 }
+
 .about .col
 {
 	margin-bottom: 24px;
@@ -89,6 +92,8 @@ font-size:6rem;
 
 .about .card img
 {
+	width: auto;
+	height: auto;
 	margin-bottom: 15px;
 }
 
@@ -110,6 +115,14 @@ font-size:6rem;
 	text-transform: uppercase;
 	margin-bottom: 45px;
 }
+
+.row img{
+	width: 200px;
+	height: 200px;
+
+
+
+}
 /*.posrtfolio hr
 {
 	width: 40px;
@@ -128,7 +141,7 @@ font-size:6rem;
 	display: inline-block;
 	float: left;
 }*/
-
+/*
 .contact .col
 {
 	margin-bottom: 24px;
@@ -168,7 +181,7 @@ font-size:6rem;
 
 .contact .contact-holder p
 {
-	margin-bottom: 30px;
+	margin-bottom: 30px;*/
 }
 footer
 {
